@@ -8,15 +8,15 @@
 
 ```javascript
 // 배열
-const list = [1, 2, 3]
+const list = [1, 2, 3];
 for (var i = 0; i < list.length; i++) {
-  console.log(list[i])
+  console.log(list[i]);
 }
 
 // 유사 배열
-const str = 'abc'
+const str = 'abc';
 for (var i = 0; i < str.length; i++) {
-  console.log(str[i])
+  console.log(str[i]);
 }
 ```
 
@@ -24,14 +24,14 @@ for (var i = 0; i < str.length; i++) {
 
 ```javascript
 // 배열
-const list = [1, 2, 3]
+const list = [1, 2, 3];
 for (const a of list) {
-  console.log(a)
+  console.log(a);
 }
 // 유사 배열
-const str = 'abc'
+const str = 'abc';
 for (const a of str) {
-  console.log(a)
+  console.log(a);
 }
 ```
 
