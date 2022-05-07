@@ -12,6 +12,7 @@
   - [map, filter, reduce](https://github.com/siaBaek/TIL/blob/main/frontend/javascript/map_filter_reduce)
   - [go, pipe, curry - 코드를 값으로 다루어 표현력 높이기](https://github.com/siaBaek/TIL/blob/main/frontend/javascript/코드를_값으로_다루어_표현력_높이기)
   - [map, filter, reduce, go, pipe, curry - 장바구니 만들기](https://github.com/siaBaek/TIL/blob/main/frontend/javascript/장바구니_만들기)
+  - [지연성](https://github.com/siaBaek/TIL/blob/main/frontend/javascript/지연성)
 - [Typescript](https://github.com/siaBaek/TIL/blob/main/frontend/typescript)
 
 ### 상태관리
