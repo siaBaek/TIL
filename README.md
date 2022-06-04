@@ -16,6 +16,7 @@
   - [지연성](https://github.com/siaBaek/TIL/blob/main/frontend/javascript/지연성)
   - [비동기](https://github.com/siaBaek/TIL/blob/main/frontend/javascript/비동기)
   - [실행 컨텍스트](https://github.com/siaBaek/TIL/blob/main/frontend/javascript/실행_컨텍스트.md)
+  - [this](https://github.com/siaBaek/TIL/blob/main/frontend/javascript/this.md)
 
 - [Typescript](https://github.com/siaBaek/TIL/blob/main/frontend/typescript)
 
