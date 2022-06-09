@@ -47,3 +47,4 @@
 
 - [쿠키와 세션](https://github.com/siaBaek/TIL/tree/main/CS/cookie_session.md)
 - [JWT](https://github.com/siaBaek/TIL/tree/main/CS/jwt.md)
+- [해싱과 암호화](https://github.com/siaBaek/TIL/tree/main/CS/해싱과_암호화.md)
